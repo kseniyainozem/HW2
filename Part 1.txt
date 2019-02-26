@@ -1,0 +1,28 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Part 1</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Щипцова Ксения</persName>
+                <resp>Разметка прямой речи</resp>
+            </respStmt>
+         </fileDesc>
+     </teiHeader>
+      <text><speech>
+	  <said type="direct" aloud="true"> -А Искендер-бек?</said>
+	  </speech></text>
+	  <text><speech> 
+	  <author_comment>- <speech_verb> сказал кто-то в толпе.</speech_verb></author_comment>
+      <text><speech>
+	  <said type="direct" aloud="true"> В самом деле!</said>
+	  </speech></text>
+	  <text><speech> 
+	  <author_comment> - <speech_verb> подхватили многие голоса.</speech_verb></author_comment>
+	  <text><speech>
+	  <said type="direct" aloud="true"> - А Искендер-бек-то на что? Да как это мы его забыли, как пропустили розу между цветами, сокола между птицами? Аллах, аллах! Или у нас жар-то весь мозг из головы вытопил? Это странно! Это непостижимо! Это удивительно!</said>
+      </speech></text>
+	 </text>
+</TEI>
+	
